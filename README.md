@@ -50,5 +50,3 @@ You can read the configuration steps in Documentation file Page: 27.
 <img src="images/CyberBooks.png" alt="CyberBooks"> 
 <img src="images/CyberBooks_BookList.png" alt="CyberBooks Book List"> 
 <img src="images/CyberBooks_Login.png" alt="CyberBooks Login">
-
-## Switch to another file
